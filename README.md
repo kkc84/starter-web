@@ -15,6 +15,10 @@ This is introduction text.
 
 This is deployment text.
 
+## How to contribute
+
+Please fork this repository and then issue pull request for review.
+
 ## Copyright
 
 My copyright

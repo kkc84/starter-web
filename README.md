@@ -14,3 +14,7 @@ This is introduction text.
 ## Deployment
 
 This is deployment text.
+
+## Copyright
+
+My copyright

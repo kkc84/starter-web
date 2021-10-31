@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-This is introduction.
+This is introduction text.
 
 ## Deployment
+
+This is deployment text.

@@ -21,4 +21,4 @@ Please fork this repository and then issue pull request for review.
 
 ## Copyright
 
-My copyright
+My copyright. All rights reserved.
